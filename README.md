@@ -10,7 +10,7 @@ AskPDF is a web application built using Streamlit, allowing users to upload a PD
 2. Create a file named `.env` in the project directory and add your Google API key as `GOOGLE_API_KEY=your_api_key_here`.
 3. Clone this repository to your local machine:
    ```bash
-   https://github.com/pattan99/AskPDF.git
+   git clone https://github.com/pattan99/AskPDF.git
    ```
 4. Navigate to the project directory:
    ```bash
