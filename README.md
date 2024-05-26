@@ -1,7 +1,3 @@
-Sure, here's a draft for your README file:
-
----
-
 # AskPDF
 
 AskPDF is a web application built using Streamlit, allowing users to upload a PDF file and ask questions on its content. The application leverages Google's Generative AI and FAISS for question answering capabilities.
